@@ -214,7 +214,6 @@
 
         <script>
             function setDataModal(id) {
-                alert("mensaje de alerta" + id);
                 $('#idEmpresa').val(id);
                 }
         </script>
